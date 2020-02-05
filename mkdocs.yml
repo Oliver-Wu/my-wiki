@@ -1,0 +1,9 @@
+site_name: oLiVer Wiki
+nav:
+    - Home: 'index.md'
+    - About: 'about.md'
+    - Test: 
+        - 'First Test': 'test/123.md'
+        - 'muil Test': 'test/222.md'
+    
+theme: readthedocs
